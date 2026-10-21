@@ -26,3 +26,9 @@
 ### 🚀 Proyectos Destacados
 
 [![El Juego de la Vida](https://github-readme-stats.vercel.app/api/pin/?username=danielrb1900&repo=ElJuegoDeLaVida&theme=tokyonight&hide_border=true)](https://github.com/danielrb1900/ElJuegoDeLaVida) [![Calculadora](https://github-readme-stats.vercel.app/api/pin/?username=danielrb1900&repo=Calculadora&theme=tokyonight&hide_border=true)](https://github.com/danielrb1900/CalculadoraBasica)
+
+### 📫 Contacto
+
+¿Tienes alguna propuesta, consejo o simplemente quieres conectar? ¡Escríbeme!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodriguez-belmonte/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.rb1900@gmail.com)
