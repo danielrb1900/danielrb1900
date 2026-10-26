@@ -25,7 +25,7 @@
 
 ### 🚀 Proyectos Destacados
 
-[![El Juego de la Vida](https://github-readme-stats.vercel.app/api/pin/?username=danielrb1900&repo=ElJuegoDeLaVida&theme=tokyonight&hide_border=true)](https://github.com/danielrb1900/ElJuegoDeLaVida) [![Calculadora](https://github-readme-stats.vercel.app/api/pin/?username=danielrb1900&repo=Calculadora&theme=tokyonight&hide_border=true)](https://github.com/danielrb1900/CalculadoraBasica)
+[![El Juego de la Vida](https://github-readme-stats.vercel.app/api/pin/?username=danielrb1900&repo=ElJuegoDeLaVida&theme=tokyonight&hide_border=true)](https://github.com/danielrb1900/ElJuegoDeLaVida) [![Calculadora](https://github-readme-stats.vercel.app/api/pin/?username=danielrb1900&repo=CalculadoraBasica&theme=tokyonight&hide_border=true)](https://github.com/danielrb1900/CalculadoraBasica)
 
 ### 📫 Contacto
 
